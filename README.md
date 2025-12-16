@@ -2,7 +2,7 @@
 
 # 📈 Enhancing Toothbrush Manufacturing Throughput
 
-## A Data-Driven Analysis of Downtime and Quality Control
+## FOCUS: Data-Driven Analysis of Downtime and Quality Control
 
 ---
 
