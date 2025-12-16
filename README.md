@@ -131,6 +131,8 @@ A performance dashboard summarizes:
 * Periods of reduced efficiency
 * Performance variability across shifts
 
+<img width="1270" height="736" alt="image" src="https://github.com/user-attachments/assets/d8bf02fb-202e-4fbf-a406-5706d5bcd69a" />
+
 ---
 
 ## 6. Root Cause Analysis (Question 2)
@@ -145,6 +147,12 @@ Issues are classified as:
 
 * **Systemic issues:** recurring, process-related problems
 * **Emerging issues:** rare but potentially high-impact risks
+
+<img width="1272" height="735" alt="image" src="https://github.com/user-attachments/assets/49c6b0bf-ef18-4ff9-b266-e5f6fb203aa9" />
+
+<img width="1264" height="724" alt="image" src="https://github.com/user-attachments/assets/f74ada33-3c8b-49c7-9c3e-e600cb41f523" />
+
+<img width="1270" height="736" alt="image" src="https://github.com/user-attachments/assets/5f3c8378-5e7f-4e6f-9a4b-729588d9ce79" />
 
 ---
 
